@@ -43,11 +43,11 @@
     clear: both;
 }
 
-.navbar .container {
+.navbar .container-fluid {
     width: auto;
 }
 
-.nav-collapse.collapse {
+.navbar-collapse.collapse {
     height: auto;
     overflow: visible;
     display: block;
@@ -298,7 +298,7 @@ a.navbar-brand span {
     text-shadow: 1px 1px 0 #1F7A71 !important;
 }
 
-.navbar .btn-navbar {
+.navbar .navbar-btn {
     display: none;
     float: right;
     padding: 7px 10px;
@@ -324,20 +324,20 @@ a.navbar-brand span {
     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.075);
     box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.075);
 }
-.navbar .btn-navbar:hover,
-.navbar .btn-navbar:active,
-.navbar .btn-navbar.active,
-.navbar .btn-navbar.disabled,
-.navbar .btn-navbar[disabled] {
+.navbar .navbar-btn:hover,
+.navbar .navbar-btn:active,
+.navbar .navbar-btn.active,
+.navbar .navbar-btn.disabled,
+.navbar .navbar-btn[disabled] {
     color: #ffffff;
     background-color: #3B3A3A;
     *background-color: #3B3A3A;
 }
-.navbar .btn-navbar:active,
-.navbar .btn-navbar.active {
+.navbar .navbar-btn:active,
+.navbar .navbar-btn.active {
     background-color: #cccccc \9;
 }
-.navbar .btn-navbar .icon-bar {
+.navbar .navbar-btn .icon-bar {
     display: block;
     width: 18px;
     height: 2px;
@@ -349,7 +349,7 @@ a.navbar-brand span {
     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
 }
-.btn-navbar .icon-bar + .icon-bar {
+.navbar-btn .icon-bar + .icon-bar {
     margin-top: 3px;
 }
 .navbar .nav > li > .dropdown-menu:before {
@@ -531,7 +531,7 @@ a.navbar-brand span {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
     outline: 0;
 }
-.navbar-inverse .btn-navbar {
+.navbar-inverse .navbar-btn {
     color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     background-color: #0e0e0e;
@@ -549,17 +549,17 @@ a.navbar-brand span {
     filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
 
-.navbar-inverse .btn-navbar:hover,
-.navbar-inverse .btn-navbar:active,
-.navbar-inverse .btn-navbar.active,
-.navbar-inverse .btn-navbar.disabled,
-.navbar-inverse .btn-navbar[disabled] {
+.navbar-inverse .navbar-btn:hover,
+.navbar-inverse .navbar-btn:active,
+.navbar-inverse .navbar-btn.active,
+.navbar-inverse .navbar-btn.disabled,
+.navbar-inverse .navbar-btn[disabled] {
     color: #ffffff;
     background-color: #040404;
     *background-color: #000000;
 }
 
-.navbar-inverse .btn-navbar:active,
-.navbar-inverse .btn-navbar.active {
+.navbar-inverse .navbar-btn:active,
+.navbar-inverse .navbar-btn.active {
     background-color: #000000 \9;
 }

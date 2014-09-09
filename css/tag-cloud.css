@@ -56,4 +56,17 @@
 #tags .alt .tag4{background:#3277ad;}
 #tags .alt .tag5{background:#266ca2;}
 
+
+/* Hide Tag cloud for smaller viewports */
+@media  (max-width: 480px) {
+    #tags  {
+        content: "."; 
+ display: block; 
+ height: 0; 
+ margin: 0;
+ padding: 0;
+ clear: both; 
+ visibility: hidden;
+    }
+}
 /* // Tag cloud */

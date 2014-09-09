@@ -692,7 +692,7 @@ a.btn:hover ,button.btn:hover {
     text-align: center;
 }
 
-.Footer a.brand {
+.Footer a.navbar-brand {
     font-family: 'Kelly Slab', cursive;
     color: #eeeeee;
     display: block;
@@ -706,7 +706,7 @@ a.btn:hover ,button.btn:hover {
     clear: both;
 }
 
-.Footer a.brand:hover {
+.Footer a.navbar-brand:hover {
     text-decoration: none;
 }
 
@@ -755,3 +755,7 @@ body {
     color: #333333;
     background-color: #ffffff;
 }
+
+.highlight { background-color: yellow }
+
+.padding-left{padding-left: 5px}
