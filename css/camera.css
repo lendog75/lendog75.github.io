@@ -108,15 +108,15 @@
 }
 
 .camera_target_content .camera_link {
-    background: url(../images/camera/blank.gif);
+    background: url(../img/camera/blank.gif);
     display: block;
     height: 100%;
     text-decoration: none;
 }
 
 .camera_loader {
-    background: #fff url(../images/camera/camera-loader.gif) no-repeat center;
-    background: rgba(255, 255, 255, 0.9) url(../images/camera-loader.gif) no-repeat center;
+    background: #fff url(../img/camera/camera-loader.gif) no-repeat center;
+    background: rgba(255, 255, 255, 0.9) url(../img/camera-loader.gif) no-repeat center;
     border: 1px solid #ffffff;
     -webkit-border-radius: 18px;
     -moz-border-radius: 18px;
@@ -195,7 +195,7 @@
 }
 
 .camera_prevThumbs div {
-    background: url(../images/camera/camera_skins.png) no-repeat -160px 0;
+    background: url(../img/camera/camera_skins.png) no-repeat -160px 0;
     display: block;
     height: 40px;
     margin-top: -20px;
@@ -216,7 +216,7 @@
 }
 
 .camera_nextThumbs div {
-    background: url(../images/camera/camera_skins.png) no-repeat -190px 0;
+    background: url(../img/camera/camera_skins.png) no-repeat -190px 0;
     display: block;
     height: 40px;
     margin-top: -20px;
@@ -323,7 +323,7 @@
 }
 
 .camera_prev > span {
-    background: url(../images/camera/camera_skins.png) no-repeat 0 0;
+    background: url(../img/camera/camera_skins.png) no-repeat 0 0;
     display: block;
     height: 40px;
     width: 40px;
@@ -334,7 +334,7 @@
 }
 
 .camera_next > span {
-    background: url(../images/camera/camera_skins.png) no-repeat -40px 0;
+    background: url(../img/camera/camera_skins.png) no-repeat -40px 0;
     display: block;
     height: 40px;
     width: 40px;
@@ -345,13 +345,13 @@
 }
 
 .camera_commands > .camera_play {
-    background: url(../images/camera/camera_skins.png) no-repeat -80px 0;
+    background: url(../img/camera/camera_skins.png) no-repeat -80px 0;
     height: 40px;
     width: 40px;
 }
 
 .camera_commands > .camera_stop {
-    background: url(../images/camera/camera_skins.png) no-repeat -120px 0;
+    background: url(../img/camera/camera_skins.png) no-repeat -120px 0;
     display: block;
     height: 40px;
     width: 40px;
@@ -437,43 +437,43 @@
 *
 **************************/
 .pattern_1 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay1.png) repeat;
+    background: url(../img/camera/patterns/overlay1.png) repeat;
 }
 
 .pattern_2 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay2.png) repeat;
+    background: url(../img/camera/patterns/overlay2.png) repeat;
 }
 
 .pattern_3 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay3.png) repeat;
+    background: url(../img/camera/patterns/overlay3.png) repeat;
 }
 
 .pattern_4 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay4.png) repeat;
+    background: url(../img/camera/patterns/overlay4.png) repeat;
 }
 
 .pattern_5 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay5.png) repeat;
+    background: url(../img/camera/patterns/overlay5.png) repeat;
 }
 
 .pattern_6 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay6.png) repeat;
+    background: url(../img/camera/patterns/overlay6.png) repeat;
 }
 
 .pattern_7 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay7.png) repeat;
+    background: url(../img/camera/patterns/overlay7.png) repeat;
 }
 
 .pattern_8 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay8.png) repeat;
+    background: url(../img/camera/patterns/overlay8.png) repeat;
 }
 
 .pattern_9 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay9.png) repeat;
+    background: url(../img/camera/patterns/overlay9.png) repeat;
 }
 
 .pattern_10 .camera_overlayer {
-    background: url(../images/camera/patterns/overlay10.png) repeat;
+    background: url(../img/camera/patterns/overlay10.png) repeat;
 }
 
 .camera_caption {

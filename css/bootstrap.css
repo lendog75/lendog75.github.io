@@ -98,13 +98,13 @@ sub {
 }
 
 img {
-  /* Responsive images (ensure images don't scale beyond their parents) */
+  /* Responsive img (ensure img don't scale beyond their parents) */
 
   max-width: 100%;
   /* Part 1: Set a maxium relative to the parent */
 
   width: auto\9;
-  /* IE7-8 need help adjusting responsive images */
+  /* IE7-8 need help adjusting responsive img */
 
   height: auto;
   /* Part 2: Scale the height according to the width, otherwise you get stretching */
@@ -2414,7 +2414,7 @@ input[type="submit"].btn.btn-mini {
     *margin-right: .3em;
     line-height: 14px;
     vertical-align: text-top;
-    background-image: url("../images/glyphicons-halflings.png");
+    background-image: url("../img/glyphicons-halflings.png");
     background-position: 14px 14px;
     background-repeat: no-repeat;
     margin-top: 1px;
@@ -2433,7 +2433,7 @@ input[type="submit"].btn.btn-mini {
 .dropdown-menu > .active > a > [class*=" icon-"],
 .dropdown-submenu:hover > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"] {
-    background-image: url("../images/glyphicons-halflings-white.png");
+    background-image: url("../img/glyphicons-halflings-white.png");
 }
 
 .icon-glass {
@@ -3658,7 +3658,7 @@ input[type="submit"].btn.btn-mini {
     min-height: 65px;
     padding-left: 20px;
     padding-right: 20px;
-    background: url(../images/debut_dark.png);
+    background: url(../img/debut_dark.png);
     border: None;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;

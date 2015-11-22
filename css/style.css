@@ -132,7 +132,7 @@ p {
 /**** Intro slide***/
 
 .intro {
-    background: url(../images/firstBG.jpg) 50% -75px no-repeat fixed;
+    background: url(../img/firstBG.jpg) 50% -75px no-repeat fixed;
     color: white;
     margin: 0 auto;
     padding: 130px 0 40px;
@@ -147,7 +147,7 @@ p {
 }
 
 .About {
-    background: url(../images/groovepaper.png) 50% 0 repeat fixed;
+    background: url(../img/groovepaper.png) 50% 0 repeat fixed;
     color: #575757;
     overflow: hidden;
     padding: 85px 0 100px;
@@ -155,28 +155,28 @@ p {
 }
 
 .Services {
-    background: url(../images/subtle_freckles.png) 50% 0 repeat fixed #ffffff;
+    background: url(../img/subtle_freckles.png) 50% 0 repeat fixed #ffffff;
     color: #575757;
     padding: 85px 0 100px;
     z-index: 2;
 }
 
 .Portfolio {
-    background: url(../images/grilled.png) 50% 0 repeat fixed;
+    background: url(../img/grilled.png) 50% 0 repeat fixed;
     color: #575757;
     padding: 85px 0 100px;
     z-index: 2;
 }
 
 .LargeSlider {
-    background: url(../images/daimond_eyes.png) 50% 0 repeat fixed;
+    background: url(../img/daimond_eyes.png) 50% 0 repeat fixed;
     color: #575757;
     overflow: hidden;
     z-index: 2;
 }
 
 .Contact {
-    background: url(../images/clean_textile.png) 50% 0 repeat fixed;
+    background: url(../img/clean_textile.png) 50% 0 repeat fixed;
     color: #575757;
     overflow: hidden;
     padding: 85px 0 100px;
@@ -669,7 +669,7 @@ a.btn:hover ,button.btn:hover {
 }
 /* back to top */	
 #toTop {
-    background: url("../images/backtotop.png") no-repeat scroll center center #e9e9e9;
+    background: url("../img/backtotop.png") no-repeat scroll center center #e9e9e9;
     bottom: 10px;
     color: #333333;
     cursor: pointer;
@@ -728,7 +728,7 @@ ul.arrow
 {
     margin-left:0px;
     padding-left:15px;
-    list-style-image:url(../images/list_arrow.png);
+    list-style-image:url(../img/list_arrow.png);
 
 
 }
