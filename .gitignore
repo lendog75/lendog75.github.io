@@ -2,6 +2,7 @@ Thumbs.db
 # Logs
 logs
 *.log
+.DS_Store
 
 # Runtime data
 pids
